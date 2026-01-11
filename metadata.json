@@ -1,0 +1,7 @@
+{
+  "name": "The Point Lounge",
+  "description": "A modern and elegant web application for The Point Lounge, featuring an interactive menu, a customer loyalty program, and order management with image upload capabilities for admins.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
